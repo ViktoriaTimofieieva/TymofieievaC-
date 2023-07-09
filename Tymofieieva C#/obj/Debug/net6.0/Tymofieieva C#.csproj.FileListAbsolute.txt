@@ -1,0 +1,15 @@
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\bin\Debug\net6.0\Tymofieieva C#.exe
+C:\Users\admin\source\repos\TymofieievaC-\Tymofieieva C#\bin\Debug\net6.0\Tymofieieva C#.deps.json
+C:\Users\admin\source\repos\TymofieievaC-\Tymofieieva C#\bin\Debug\net6.0\Tymofieieva C#.runtimeconfig.json
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\bin\Debug\net6.0\Tymofieieva C#.dll
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\bin\Debug\net6.0\Tymofieieva C#.pdb
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.dll
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\refint\Tymofieieva C#.dll
+C:\Users\admin\Source\Repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.pdb
+C:\Users\admin\source\repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\Tymofieieva C#.genruntimeconfig.cache
+C:\Users\admin\source\repos\TymofieievaC-\Tymofieieva C#\obj\Debug\net6.0\ref\Tymofieieva C#.dll
